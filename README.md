@@ -1,3 +1,14 @@
-# test_repository
-### created and comited file.txt
-### created .gitignore file 
+# La-tahzan data fatcher 
+
+A Python Script for scraping book "Hisn-al-Muslim" 
+
+## Pre-requisites
+
+- Python
+- [Pipenv](https://pypi.org/project/pipenv/)
+
+## Running the Project
+In project root folder, run
+```bash
+./scripts/run.sh
+```
